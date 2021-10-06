@@ -1,2 +1,2 @@
-# Vlad
-MyRepository
+# Simple server
+express, sqlite
